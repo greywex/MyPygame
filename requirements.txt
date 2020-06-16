@@ -1,0 +1,5 @@
+to play the game you must import-
+1. pygame
+2. math
+3. random
+4. Must have Agency FB on system to play. otherwise change font line to font=pygame.font.Font(None,74)
